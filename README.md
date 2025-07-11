@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola 👋
 Mi nombre es Daniel Sanchez👨‍🏫
 Estudio la Carrera de Ingenieria en Sistemas💻👨‍💻
 Frase que me motiva: "Cada dia es una oportunidad para empezar de nuevo"💪💯💥
