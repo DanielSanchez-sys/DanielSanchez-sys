@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Mi nombre es Daniel Sanchez👨‍🏫
+Estudio la Carrera de Ingenieria en Sistemas💻👨‍💻
+Frase que me motiva: "Cada dia es una oportunidad para empezar de nuevo"💪💯💥
 <!--
 **DanielSanchez-sys/DanielSanchez-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
